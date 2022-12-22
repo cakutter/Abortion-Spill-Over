@@ -99,26 +99,28 @@ An important limitation to mention here: while downloading the dataset, we have 
 
 ## **III - Media Analysis**
  
-### Quantitative analysis of the spillover effect
+### 1. Quantitative analysis of the spillover effect
 
   The hypothesis of our paper is that the overruling of Roe vs Wade by the American supreme court has generated an artificial debate about abortion in Europe. First, we want to quantify this spillover effect. To do so, we make the assumption that if an article mentions both the keywords “US” and “abortion”, we consider that the debate is centered around the American abortion debate (right circle on the chart below). Otherwise, if the article only mentions the keyword “abortion”, we consider the debate is a national one (left circle). Our hypothesis is that the group of articles mentioning only abortion and not the US (left circle) is increasing the post period, due to an artificial spillover effect from the American abortion debate to the European abortion debate.
 
+![imagenet logo](https://user-images.githubusercontent.com/74500362/209152632-8f2f32c5-b1b2-4b72-8d9b-3f1f4ecd8fee.png)
 
+##### FRANCE
 
-
-*France*
   First thing to notice, is that we have 232 articles for the POST period, compared to 134 in the PRE period, which implies a 132% increase between the two time periods in France. From the PRE time period, 7 articles out of 134 articles mention “États-Unis”, which represents 5% of the articles. From the POST time period, 79 out of 232 articles mention “États-Unis”, which account for 30% of the articles. Not only did the amount of articles about abortion increase in the POST period, but also the proportion of articles mentioning the US and abortion. As such, in the POST period, both circles from the chart have increased, even though the right circle mentioning the US and abortion has increased more than proportionally. As such, this data confirms our original hypothesis - looking at quantitative data, it seems that there has been an artificial spillover effect in France.
 
- *Germany*
+##### GERMANY
+
   In Germany we notice a similar pattern with a 197% increase in the amount of articles between the PRE and POST period. What is more, 84 out of 235 mention the keywords “USA” and “Abtreibung” in the PRE time period, which means that 36% of the articles talk both about the US and abortion and thus belong to the right circle. For the POST time period, this number is 58%. Here again, as with the French articles, there seems to be a spillover effect, as the absolute number of articles mentioning abortion without mentioning the US is increasing.
 
-*Comparison France-Germany*
+##### COMPARISON FRANCE-GERMANY
+
   The first observation is that Germany has more than one third of its articles mentioning abortion and the US simultaneously in the PRE period. How come that Germany was already talking about the US and abortion before Roe vs Wade? The qualitative analysis will help us dive deeper into this, and in particular look at how different topics connect between each other during each time period. The second observation is that in the second time period, Germany has a bigger proportion of posts mentioning abortion and the US than France. As such, it seems that the spillover effect was higher in France than in Germany. On the other hand, we need to explore which topics exactly monopolized the national debates, which we will do in the next part of the analysis.
 
 As a first mention of limitation about this part: This method is quite primitive, as it only takes into account two single keywords that can be used together in differing contexts, and only draws on a limited number of articles from specific newspapers. For example, we could have used further keywords, such as “américains” in France, or more specific keywords like “Roe vs Wade”. 
 
 
-### Qualitative evolution of topics across time - A comparison between before and after Roe vs Wade
+### 2. Qualitative evolution of topics across time - A comparison between before and after Roe vs Wade
 
   To broaden our understanding of the spillover effect we will now qualitatively evaluate our data, to identify specific topics. We will first look at the abortion debate in France, both in the PRE and POST period, and then do the same for Germany.
 
@@ -126,23 +128,34 @@ As a first mention of limitation about this part: This method is quite primitive
  
 ##### Most used n-grams and their evolution over time
 
+![imagenet logo](https://user-images.githubusercontent.com/74500362/209153159-eb5046ca-0578-4295-a00b-b8d51c50e7ce.png)
 
-First, we look at the most used terms in the PRE time period, to understand what topics are most talked about. An unexpected finding here is that Marine Le Pen and Emmanuel Macron are by far the most mentioned n-grams, both being mentioned over 100 times across the 134 articles. What is more, we can already identify two broad topics: the French presidential elections, and topics related to women’s rights at large (droit des femmes, Simone Veil, Valéry Giscard d’Estaing).
+*Most used n-grams in French articles in the PRE time period*
+
+ First, we look at the most used terms in the PRE time period, to understand what topics are most talked about. An unexpected finding here is that Marine Le Pen and Emmanuel Macron are by far the most mentioned n-grams, both being mentioned over 100 times across the 134 articles. What is more, we can already identify two broad topics: the French presidential elections, and topics related to women’s rights at large (droit des femmes, Simone Veil, Valéry Giscard d’Estaing).
 
 
-We are now looking at the evolution of these most used n-grams over time, which allows us to connect the articles to important events in French society. The axis on the top is a timeline,  from the beginning of February until the end of April, and in this time period we can spot two main topics: around the beginning of March France celebrated international women’s day, and around the end of April, France witnessed presidential elections. Around international women’s day, women’s right (droit des femmes) is the most used n-gramm, while articles remember historic figures and events that have improved women’s right, such as Simone Veil or her famous “proposition de loi” to make abortion legal. Regarding the second time period, especially the name of the two run-off candidates Marine Le Pen and Emmanuel Macron are increasingly mentioned, while other n-grams related to the elections such as “premier tour”, “premier ministre” or “élections présidentielles” also appear. 
+![imagenet logo](https://user-images.githubusercontent.com/74500362/209154214-6f720fec-4316-4849-9c5f-07ff233610bf.png)
 
-Newspaper extract from l’Humanité, mentioning Marine Le Pen as a threat to the right to abortion, end of April 2022
+*Evolution of most used n-grams in the PRE time period*
 
-Other n-grams that appear are “planning familial”, being mainly mentioned in the newspaper Ouest France as part of an invitation for citizens to get support and not hesitate to reach out to this organization. Finally, there is one n-gramm related to the US: Shar Dubey. Shar Dubey is an American businesswoman and CEO of dating apps like Match.com, and has stood up for the right of women to abort, in particular raising funds for Texan women willing to abort, after Texas restricted the access to abortion.
+ We are now looking at the evolution of these most used n-grams over time, which allows us to connect the articles to important events in French society. The axis on the top is a timeline,  from the beginning of February until the end of April, and in this time period we can spot two main topics: around the beginning of March France celebrated international women’s day, and around the end of April, France witnessed presidential elections. Around international women’s day, women’s right (droit des femmes) is the most used n-gramm, while articles remember historic figures and events that have improved women’s right, such as Simone Veil or her famous “proposition de loi” to make abortion legal. Regarding the second time period, especially the name of the two run-off candidates Marine Le Pen and Emmanuel Macron are increasingly mentioned, while other n-grams related to the elections such as “premier tour”, “premier ministre” or “élections présidentielles” also appear. 
 
-## Topic Network
+![imagenet logo](https://user-images.githubusercontent.com/74500362/209154565-8c21c4bf-f036-41a0-8b2e-1af6d1e2b178.png)
+
+*Newspaper extract from l’Humanité, mentioning Marine Le Pen as a threat to the right to abortion, end of April 2022*
+
+ Other n-grams that appear are “planning familial”, being mainly mentioned in the newspaper Ouest France as part of an invitation for citizens to get support and not hesitate to reach out to this organization. Finally, there is one n-gramm related to the US: Shar Dubey. Shar Dubey is an American businesswoman and CEO of dating apps like Match.com, and has stood up for the right of women to abort, in particular raising funds for Texan women willing to abort, after Texas restricted the access to abortion.
+
+### 3.A. Topic Network
 
 After looking at the evolution of individual n-grams and making assumptions about how they relate to specific events in French politics and society, we will now try to understand how these n-grams relate to each other through a network analysis, and see whether specific newspapers focus on specific topics.
 
-Topic Network from French newspapers articles in the PRE time period
+![imagenet logo](https://user-images.githubusercontent.com/74500362/209154988-2c3f6cce-ba99-4c41-92e5-b2e61976dd70.png)
 
-The network of topics mentioned our French dataset for the PRE period give a new image of how French newspapers talk about abortion. On the network, we can spot one big cluster (blue in the middle), as well as four other smaller clusters (in the red circles). The big blue cluster includes a lot of topics both around international women’s day (“journée internationale des droits”, “luttes féministes”) and the French presidential elections (“deux candidats”), all clustered around the main n-gramm of “accès à l’avortement”. Despite being two distinct events in French politics and society, the topics discussed overlap. 
+*Topic Network from French newspapers articles in the PRE time period*
+
+The network of topics mentioned in our French dataset for the PRE period give a new image of how French newspapers cover abortion. On the network, we can spot one big cluster (blue in the middle), as well as four other smaller clusters (in the red circles). The big blue cluster includes a lot of topics both around international women’s day (“journée internationale des droits”, “luttes féministes”) and the French presidential elections (“deux candidats”), all clustered around the main n-gramm of “accès à l’avortement”. Despite being two distinct events in French politics and society, the topics discussed overlap. 
 
 Two close clusters to the blue one are the smaller green and yellow ones (both circled in red). It looks like the green cluster is centered around left-wing politicians and topics, while the yellow cluster is rather centered on right-wing/liberal topics. The green left-wing cluster is then connected to the orange cluster at the top right, which talks about Shar Dubey and “match group” of which she is the CEO. “Rencontres en ligne” is a description of what the match group offers. Finally, the cluster on the bottom left composed of the red and orange clusters centers around the topic of French culture, mentioning cinema and literature.
 
@@ -152,21 +165,33 @@ To conclude, one can say that the abortion debate in the PRE Roe vs Wade time pe
  
 ##### Most used n-grams and their evolution over time
 
+![imagenet logo](https://user-images.githubusercontent.com/74500362/209155647-410b2490-80c4-4fee-8167-a9d8dcd372db.png)
+
+*Most used n-grams in French articles in the POST time period*
+
   We are now looking at the most frequent n-grams in the time period POST Roe vs Wade, and the first striking thing we notice is that “Cour suprême” is the most frequent n-gram in French articles, closely followed by “Cour suprême des États-Unis”. Overall, these n-grams suggest a drastic impact of the American events in the French press. Nevertheless, we also spot France specific topics that might correspond to the artificial spillover effect described earlier. As a matter of fact, “avortement dans la constitution” is now a new n-gram compared to the PRE period, and directly links to the proposal to include the right to abortion into the French constitution, that started to be discussed more thoroughly as a consequence of the overrule of Roe vs Wade. Finally, the mention of the European Union could be linked to the fact that during the French presidency of the European Union in the first half of 2022, French president Macron suggested to include abortion in the European Charter of Fundamental Rights.
 
 The list also mentions Paula Rego, a British-Portuguese feminist artist who passed away at the beginning of June, and who was a major advocate for abortion rights in the 1990’s and 2000’s. After Portugal voted against abortion rights in a referendum in 1998, she drew illustrations about clandestine abortions, which had a major impact in Portuguese society, and led to abortion finally being legalized in 2007.
 
+![imagenet logo](https://user-images.githubusercontent.com/74500362/209156113-869de0c5-8c1f-40dd-ac7a-92eb41639eae.png)
+
+*Evolution of most used n-grams in the POST time period*
+
   Again, we have a timeline at the top that goes from May 1st 2022 to July 31st 2022. From the beginning of May (time of the leak) onwards we can see that the supreme court continuously plays an important role in the topics, with a spike around mid of June, when Roe vs Wade got overruled. From this chart, it looks like there was no real spillover effect, as the US are still at the center of the abortion debate. Nevertheless, when digging a little further into the articles, one can see that most of them also related the US event to French politics and society as in the extract below, where the American abortion debate sparked a debate about European abortion rules in the 27 EU member states.
   
-  
-  Illustration of the spillover effect - Topic of the article: how the overrule of Roe vs Wade has sparked a debate abortion as a fundamental right within the EU27
+![imagenet logo](https://user-images.githubusercontent.com/74500362/209156607-811e80ef-eb98-4cb6-b9da-673329c2aa59.png)
+
+*Illustration of the spillover effect - Topic of the article: how the overrule of Roe vs Wade has sparked a debate abortion as a fundamental right within the EU27*
 
 Also, “planning familial” and “droit des femmes” might be more France specific. The planning familial in particular is a French association promoting women’s rights and providing sexuality education and counseling. In the article extract below, the French Prime Minister Elisabeth Borne visited the Planning familial, where she held a speech about preserving fundamental women’s rights, such as abortion, as a reaction to the overrule of Roe vs Wade.
 
+![imagenet logo](https://user-images.githubusercontent.com/74500362/209156886-cbbea923-7bde-4068-87a9-3dee762db5c8.png)
 
-Illustration of the an article including the “Planning familial”
+*Illustration of the an article including the “Planning familial”*
 
-## Topic Network
+## 3.B. Topic Network
+
+![imagenet logo](https://user-images.githubusercontent.com/74500362/209157232-67c0e719-100c-4006-b479-b2c99b1205f5.png)
 
 *Topic Network from French newspapers articles in the POST time period*
 
@@ -176,41 +201,80 @@ When looking at networks of the topics at hand, we can identify three main clust
  
 ##### Most used n-grams and their evolution over time
 
- Most used n-grams in German articles in the PRE time period
+![imagenet logo](https://user-images.githubusercontent.com/74500362/209157478-885d28fa-aef2-4987-9ac3-112bdee0b11f.png)
+
+*Most used n-grams in German articles in the PRE time period*
+
 
   In the German case, the most mentioned n-gram revolves around paragraph 219a, which is a paragraph in German penal law that prohibited doctors from informing patients about their abortion services. Kristina Hänel, whose name appears 30 times in our corpus, is a German gynecologist who was fined for advertising abortion procedures on her website. She appealed and finally triggered the elimination (“Abschaffung” or “Streichung” in the list of n-grams) of paragraph 219a from German penal law. The catholic church is also mentioned a lot, mainly in combination with articles about the abolition of paragraph 291a (such as in the extract below). Weirdly enough, almost as many Germans are protestant as catholic, but there is no mention of the protestant church. Annie Ernaux is also mentioned as part of the paragraph 219a debate, after the publication in Germany of a movie after her autobiographical book “L’événement”, that has also been commented on by Katrina Hänel. As a conclusion, it seems that the German national debate about abortion was centered around the abolition of the paragraph 219a, drawing on the opinion of personalities such as Katrina Hänel, or the one of the catholic church.
  
+
+![imagenet logo](https://user-images.githubusercontent.com/74500362/209157777-f8c1713e-86e7-4842-806e-f91ab6e7ff18.png)
+
+*Extract from the Mitteldeutsche Zeitung mentioning that the catholic church considers the abolition of Paragraph 219a “superfluous”*
  
- Extract from the Mitteldeutsche Zeitung mentioning that the catholic church considers the abolition of Paragraph 219a “superfluous”
- 
- *Evolution of most used n-grams in the PRE time period*
+![imagenet logo](https://user-images.githubusercontent.com/74500362/209158020-febad70a-eee4-4ae9-a618-3bae3bce07d6.png)
+
+*Evolution of most used n-grams in the PRE time period*
 
   When looking at the evolution of the most frequent n-grams from the German PRE articles corpus over time, we notice a high representation of articles about paragraph 219a from the beginning of February onwards. On February 19th 2022, the German Bundestag voted to allow the modification of the paragraph. Around end of April (on the right of the chart), a lot of articles mention Sandra Schmitz, a German woman who aborted and who made the buzz by publicly talking about her abortion . As our corpus is mainly drawn from regional newspapers, it makes sense to have anecdotal stories included. Here again, as in France, we can see that the topics at stake are closely linked to political and societal events that occur nationally. There is no mention of the US for now, almost like in France where the only link to the US was Shar Dubey, the CEO of match.com who spoke up about Texan’s abortion laws.
 
-## Topic Network
+## 3.C. Topic Network
 
- *Topic Network from German newspapers articles in the PRE time period*
+![imagenet logo](https://user-images.githubusercontent.com/74500362/209158223-ec962995-ad53-4847-a3b8-ecf9740da427.png)
 
-	In terms of how the topics relate to each other, we can identify three clusters. The massive cluster in green at the top right is centered around paragraph 219a. This bubble connects to a lighter green one, that mentions women’s rights at large. At the left in orange and at the bottom in blue, we have two bubbles related to the catholic church. The orange one is more focused on Southern Germany, while the blue one is from the region around North Rhine Westphalia. The bubble in light yellow at the bottom left mentions various topics related to abortion. Overall, these topics clusters reflect German political events, and there is no mention of the US for now.
+*Topic Network from German newspapers articles in the PRE time period*
+
+ In terms of how the topics relate to each other, we can identify three clusters. The massive cluster in green at the top right is centered around paragraph 219a. This bubble connects to a lighter green one, that mentions women’s rights at large. At the left in orange and at the bottom in blue, we have two bubbles related to the catholic church. The orange one is more focused on Southern Germany, while the blue one is from the region around North Rhine Westphalia. The bubble in light yellow at the bottom left mentions various topics related to abortion. Overall, these topics clusters reflect German political events, and there is no mention of the US for now.
 
 #### Germany - POST Roe vs Wade
 
 ##### Most used n-grams and their evolution over time
 
+![imagenet logo](https://user-images.githubusercontent.com/74500362/209159155-999c356e-3fed-49cd-923e-e46a165d44a7.png)
+
 *Most used n-grams in German articles in the POST time period*
 
   In the POST time period, as for France, the most mentioned n-gram relates to the US (Supreme Court, Oberster Gerichtshof, New York). Second, there is now a new topic closely related: the G7 summit in Schloss Elmau at the end of June 2022, where Olaf Scholz gave his opinion on the overrule of Roe vs Wade. Third, Paragraph 219a still plays an important role and lastly, there is one new item around the figure of Alice Schwarzer, a German feminist journalist, who is famous for having designed the front page of Der Spiegel on June 6th 1971, with a title saying “We aborted” to raise awareness about abortion.
   
+![imagenet logo](https://user-images.githubusercontent.com/74500362/209159665-c4eeb75d-0c41-4c21-a4e1-0f6f49f4bb2e.png)
   
+*Evolution of most used n-grams in the POST time period*
+
   On this graph we can clearly see the impact of the leak from the supreme Court, as there is a spike of articles mentioning the US Supreme court on the left (coinciding with the date of the leak), then less mentions of it and around June, which coincides with the dates in which the Supreme Court overruled Roe vs Wade. Parallel to this, we still see Paragraph 219a, and interestingly, Schloss Elmau is mentioned again around the date of the G7 summit. Thus, one can say that there is a spillover effect in that Scholz felt obliged to re-discuss abortion during the G7 summit in Schloss Elmau, but otherwise, there isn’t a new German national topic surrounding abortion.
 
-## Topic Network
+## 3.D. Topic Network
+
+![imagenet logo](https://user-images.githubusercontent.com/74500362/209159951-d4543969-e76a-4107-9925-21a4c22d4c5e.png)
 
 *Topic Network from German newspapers articles in the POST time period*
 
-  In the POST time period, we can clearly identify two clusters that are identified by the topic of “unterschiedliche Methoden der Abtreibung” (= different methods of abortion). These two sides are thus barely linked. The side on the bottom right is centered around the US and around the G7 summit in Schloss Elmau. The side on the left is really Germany specific, with the double cluster centering around paragraph 219a again, and the small circle being around feminists like Alice Schwarzer reclaiming women’s rights. 
+  In the POST time period, we can clearly identify two clusters that are identified by the topic of “unterschiedliche Methoden der Abtreibung” (= different methods of abortion). These two sides are thus barely linked. The side on the bottom right is centered around the US and around the G7 summit in Schloss Elmau. The side on the left is really Germany specific, with the double cluster centering around paragraph 219a again, and the small circle being around feminists like Alice Schwarzer reclaiming women’s rights.
   
-  
+## **IV - Twitter Analysis**
+
+ As we have seen in the previous section, the overruling of Roe vs Wade by the American supreme court has generated an artificial debate about abortion in German and French Newspapers. As a next step we have also considered if this spillover effect has also been present in the general public discourse. We have chosen to more closely examine the Twitter discourse, while this has several limitations, and is not representative of the population, we hope to at least get partial answers.
+
+![imagenet logo](https://user-images.githubusercontent.com/74500362/209161812-52d5c7c6-71b8-47d9-9f72-d8d18c4c08a4.png)
+ 
+*On top: Germany: February 1 - July 31, absolute frequency of tweets mentioning abortion. On the bottom: France: February 1 - July 31, absolute frequency of tweets mentioning abortion*
+
+ However, looking at raw frequency can not determine whether discussion of abortion without mentioning the US has increased. In order to examine this, we propose a semi-manual approach to examine discussed topics, and try to differentiate between tweets discussing the US and tweets discussing abortion without specifically discussing the US, and rather focusing on the local context. In order to do this the corpus was used to conduct a ‘term extraction’, ultimately building a list of the most frequent n-grams used in the tweets texts. These lists were then manually assigned to 3 different categories, either ‘related to the United States’, ‘neutral, unclear or both’ indicated by a zero and ‘related to France/Germany’. The following show the 20 most frequent n-grams of each country and their corresponding classification.
+ 
+![imagenet logo](https://user-images.githubusercontent.com/74500362/209162695-ec66dd27-577e-479c-9622-bed564e544a2.png)
+
+*France: most frequent n-grams and category  Germany:most frequent n-grams and category*
+
+These categories have then been used to show the change over time. In the following graph the x-axis is a time axis, where the number corresponds to the day of the year. Hence 122 refers to may second, which splits the graph right in the middle, and lets us examine a pre and post period similar to section III. In both countries overall frequency of the most frequent n-grams has increased over time and is significantly higher in the post period. While this is interesting, one must consider that the extraction of most frequent n-grams might have a slightly distorting influence - as we have seen before overall frequency increased in the post period, hence the term extraction will be biased towards the post period as well, and further enhance the differences. It can also be observed that the use of terms only related to the Us in the pre period is very limited. However, around May 2 term use drastically increased, with US related terms now being used more than France or Germany related ones. However in both countries the n-grams only related to local issues increased as well, indeed more than tripling by end of June in comparison to the pre period. We can hence conclude an artificial spillover effect on Twitter, in line with our Hypothesis, where discussion of abortion in non US related topics increased after a change of the situation in the US.
+
+![imagenet logo](https://user-images.githubusercontent.com/74500362/209163038-3cdc85f8-4bf7-4d9a-a70c-ffd391f4f5b1.png)
+
+*Bump Graph France: frequency of n-grams in categories between february and august 2022*
+
+![imagenet logo](https://user-images.githubusercontent.com/74500362/209163269-c8f8161c-3269-4ba6-a1fa-32b5cb3b52ab.png)
+
+*Bump Graph Germany : frequency of n-grams in categories between february and august 2022*
+ 
 ## **V - Discussion & Limitations**   
 
 ### Choice of not including other countries
@@ -229,6 +293,9 @@ When looking at networks of the topics at hand, we can identify three main clust
 
   We were confronted with a similar setback regarding the suitability of Twitter as a social media to reflect the opinion of the French and German population on the abortion debate. Indeed, the users of the platform, and consequently their tweets, entails various biases such as the age of the population, their interests, their sex or their actual participation in discussions. Indeed, although we have assumed that the opinions of Twitter users can be quite diverse, we remain also aware that not only do not all individuals using the platform tweet, but that the most extreme and polemical statements tend to go "viral" and thus reach a larger audience within the social network.  
 
+![imagenet logo](https://static01.nyt.com/images/2022/01/21/multimedia/21up-roe1/21up-roe1-superJumbo.jpg)
+
+*Anti-abortion protesters during the annual March for Life in Washington on Friday. Roe v. Wade was decided 49 years ago today. Photograph: Kenny Holston for The New York Times*
 
 ## **VI - Conclusion**
 
