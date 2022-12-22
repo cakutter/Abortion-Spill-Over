@@ -53,13 +53,22 @@ The case of Germany is equally fascinating because of the repeal by the German P
 
 ### 3. Data collection 
 
-*A.Newspaper*
+### 3.1. Newspaper
 
 First, we will focus on how newspapers have been treating the abortion debate in France and Germany during the PRE and POST time periods. We are using Factiva to download newspapers from both countries.
 
-*French Newspaper*
+##### FRENCH NEWSPAPERS
 
 For this analysis, we decided to focus on eleven of the most read French newspapers. Considering the fact that most newspapers are slightly biased towards certain political views, we tried to cover all possible political opinions within the country. The newspaper we chose to download on Factiva are as follows: 
+
+
+
+
+
+
+
+
+
 
 As such, one third of these readers read newspapers slightly oriented towards the left, one third reads liberal newspapers, then, 460K people read proximity newspapers and 350K read newspapers from the right wing. The choice of the newspapers is thus balanced enough to allow a fair representation of the population.
 
@@ -77,7 +86,7 @@ We then proceeded to download all articles from these newspapers mentioning the 
 
 Amount of articles mentioning “avortement” by French newspaper in he PRE and POST period
 
-German Newspapers
+##### GERMAN NEWSPAPERS
 
 Regarding German newspapers, there weren’t enough articles available on Factiva from the biggest newspapers to yield a high enough count of articles. As such, we decided to download all available articles from German newspapers during these two time periods, and have 235 articles for the first time period, and 458 for the second one.
 
