@@ -40,22 +40,23 @@ The second analysis we conducted is based on the collection of tweets mentioning
 
 ## **II - Choice of Countries & Methodology**
 
-###1/ Choice of Countries 
+### 1. Choice of Countries 
 
   We decided to concentrate our analysis on the specific case of the French and German press. This choice was made for very pragmatic reasons of understanding the language in which we collected our databases. In addition, our respective knowledge of the editorial lines of the different newspapers in these countries allows us a more precise criticism of their bias. 
  
-*France*
+##### France
+
 The choice of France is particularly interesting in view of the burning news that marks the recent first step towards the inscription of the right to abortion in our Constitution. On Wednesday, November 9, the deputies validated a constitutional law proposal in this sense, to protect themselves against possible challenges like those observed in the United States.  The short text adopted on Wednesday, carried by the leader of the Renaissance deputies, Aurore Bergé, must now be examined in the hemicycle during the week of November 28.
  
-*Germany*
+##### Germany
+
 The case of Germany is equally fascinating because of the repeal by the German Parliament on June 24, 2022, of a legislative provision that restricted publicity and information on abortion and had led to the conviction of several gynecologists. This decision, which runs counter to the direction taken by the United States, allows us to highlight an underlying influence of American measures on the policies of European countries, which, if we may generalize as a premise for our analyses, is correlated positively or negatively with societal debates that may or may not be latent.
 
-
-###2/ Time periods 
+### 2. Time periods 
 
   As we want to study the spillover effect of the American abortion debate onto the European abortion debate, we will define two time periods  for our analysis. As a cut-off date, we use May 2nd 2022, the day on which a report leaked that Roe vs Wade would be overruled by the Supreme Court. We then define two time periods of three months: (1) PRE Roe vs Wade, from February until April 2022, and (2) POST Roe vs Wade, from May until August 2022. From then on, we will look at the effect of the American abortion debate on the European one, using a method similar to the difference-in-difference method from econometrics, with the control group being the country before Roe vs Wade, and the treatment group the same country after Roe vs Wade.
 
-###3/ Data collection
+### 3. Data collection 
 
 *A.Newspaper*
 
