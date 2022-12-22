@@ -8,13 +8,6 @@
 
 ### Context
 
-
-
-![imagenet logo](https://user-images.githubusercontent.com/74500362/209132523-8435659c-19cd-4474-b94f-79520cc0cfee.png) 
-
-
-
-
    The polarizing revocation of Roe vs. Wade, which granted the right to abortion to American women, is particularly incoherent and almost absurd in a country so fervent about freedom of any kind as the US. In fact, the highest court in the United States, the U.S. Supreme Court, on Friday, June 24, 2022, revoked its landmark "Roe vs. Wade'' decision, which recognized abortion as a constitutionally protected right. However, the news broke earlier on the 2nd of May 2022 through the leak of the report announcing the intent of the U.S. Supreme Court. This key date will serve as the anchor for our analysis. The revocation of Roe v. Wade implies that this right is now within the jurisdiction of the states. Thus, states that criminalize abortion have the option of voting respectively for the criminalization they associate with abortion and towards women who visit abortion clinics, as well as the identity of doctors performing abortions.
  
 The media impact of the reversal of Roe v. Wade has been unprecedented around the world. The overturning of this 1973 legal decision signals a real setback for freedom in the United States. Over the years, Roe v. Wade and abortion rights have come under attack in the United States. One example is the law that went into effect in September of last year in Texas. The law prohibits abortion, even in cases of rape or incest once a fetus' heartbeat can be felt at about six weeks of pregnancy. At this point, most women do not know they are pregnant. The federal government asked the Supreme Court to block the legislation, which the court refused in December of last year. 
