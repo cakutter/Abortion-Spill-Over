@@ -61,14 +61,7 @@ First, we will focus on how newspapers have been treating the abortion debate in
 
 For this analysis, we decided to focus on eleven of the most read French newspapers. Considering the fact that most newspapers are slightly biased towards certain political views, we tried to cover all possible political opinions within the country. The newspaper we chose to download on Factiva are as follows: 
 
-
-
-
-
-
-
-
-
+![imagenet logo](https://user-images.githubusercontent.com/74500362/209145454-ab1d9be7-23dd-467f-9f63-32cc6f28de71.png)
 
 As such, one third of these readers read newspapers slightly oriented towards the left, one third reads liberal newspapers, then, 460K people read proximity newspapers and 350K read newspapers from the right wing. The choice of the newspapers is thus balanced enough to allow a fair representation of the population.
 
