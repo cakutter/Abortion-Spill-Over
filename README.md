@@ -28,6 +28,8 @@ The first analysis we conducted is based on the collection of articles from a va
 The second analysis we conducted is based on the collection of tweets mentioning abortion without mentioning the United States.
 
 ![imagenet logo](https://media2.ledevoir.com/images_galerie/nwd_1056477_861453/image.jpg)
+*Abortion rights advocates and anti-abortion activists demonstrated outside the US Supreme Court on Wednesday.
+Photograph: Olivier Douliery Agence France-Presse*
 
 ## **II - Choice of Countries & Methodology**
 
@@ -90,7 +92,8 @@ An important limitation to mention here: while downloading the dataset, we have 
 
  As an additional layer to the analysis we have also looked at the broader public discourse, by examining the change in the discussion on twitter in Germany as well as France. For this we used Minet to download tweets mentioning the keyword *avortement* or *Abtreibung* in french or respectively german. We then semi-manually filtered these tweets for location, by constructing a list of most frequently used locations and manually assigning the corresponding country, thus coming up with a dictionary. This dictionary was used to then limit the corpus to 22.278 tweets from France and 9.002 tweets from Germany used to conduct further analysis. 
 
-![imagenet logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2022%2Fjan%2F18%2Fgermanys-new-government-to-scrap-nazi-era-abortion-law&psig=AOvVaw2meSZ9Di6v692NgcQxxw7O&ust=1671803458917000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDlr7avjfwCFQAAAAAdAAAAABAD](https://i.guim.co.uk/img/media/af1997e276d3386018a33c88a63df1d6c6b2b5b3/0_160_4815_2889/master/4815.jpg)
+![imagenet logo](https://i.guim.co.uk/img/media/af1997e276d3386018a33c88a63df1d6c6b2b5b3/0_160_4815_2889/master/4815.jpg?width=620&quality=45&dpr=2&s=none)
+
 *One of many protests held was held to rally for the abolition of criminal code 219a. Paragraph 219a criminalises those who advertise abortions. Photograph: Hayoung Jeon/EPA*
 
 ## **III - Media Analysis**
