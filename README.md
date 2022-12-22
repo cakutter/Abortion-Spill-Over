@@ -79,9 +79,11 @@ Regarding German newspapers, there weren’t enough articles available on Factiv
 For the PRE time period, we have articles from a total of 106 newspapers, mostly local newspapers, with no newspaper exceeding 8 articles in that time period with the Keyword “Abtreibung”. For the POST time period, we have a total of 139 newspapers, with a maximum of 20 articles for one newspaper.
 
 ![imagenet logo](https://user-images.githubusercontent.com/74500362/209146571-84d67b81-ae64-4930-80f6-8f29b0ad1fa7.png)
+
 *Top 20 Newspapers with highest amount of articles in our dataset in the PRE period*
 
 ![imagenet logo](https://user-images.githubusercontent.com/74500362/209146886-a0dea961-d856-4a67-8cb3-c60ca3ca9688.png)
+
 *Top 20 Newspapers with highest amount of articles in our dataset in the POST period*
 
 From our lists, the first thing we can see is that local newspapers, such as *Schwarzwälder Bote*, *Stuttgarter Zeitung*, *Berliner Zeitung* or *Trierischer Volksfreund*, are highly represented in our corpus. Second, bigger German newspapers such as *Süddeutsche Zeitung*, *Welt online*, *Spiegel Online* or *Die Zeit*, didn’t publish more articles on abortion than other local newspapers. As a reminder here: Germany is a federal state that is less centralized than France, which is reflected by a higher diversity of local newspapers than in France. Still, there are various question that arise: what proportion of the their total amount of articles are dedicated to the topic of abortion? And is there a difference in this proportion between smaller and bigger newspapers? How do local and bigger newspaper treat the topic of abortion? A deeper qualitative analysis of the articles’ content in the next section will allows us to better grasp the way the newspaper talk about abortion.
