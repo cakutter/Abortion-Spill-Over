@@ -1,8 +1,6 @@
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-# **The Abortion Debate in the US and its Influence on the French and German Abortion Discourse**
-
-## To which extent the American abortion debate had a spillover on the French and German abortion discourse?
+# **To which extent the American abortion debate had a spillover on the French and German abortion discourse?**
 
 ## **I - Introduction**
 
