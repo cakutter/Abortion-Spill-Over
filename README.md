@@ -47,6 +47,10 @@ The case of Germany is equally fascinating because of the repeal by the German P
 
   As we want to study the spillover effect of the American abortion debate onto the European abortion debate, we will define two time periods  for our analysis. As a cut-off date, we use May 2nd 2022, the day on which a report leaked that Roe vs Wade would be overruled by the Supreme Court. We then define two time periods of three months: (1) PRE Roe vs Wade, from February until April 2022, and (2) POST Roe vs Wade, from May until August 2022. From then on, we will look at the effect of the American abortion debate on the European one, using a method similar to the difference-in-difference method from econometrics, with the control group being the country before Roe vs Wade, and the treatment group the same country after Roe vs Wade.
 
+
+![imagenet logo](https://www.grid.news/resizer/gttQwTFeZA48zDN_KzDg17l8ry4=/1440x540/filters:format(jpg):quality(100):focal(1993x996:2003x1006)/cloudfront-us-east-1.images.arcpublishing.com/thesummit/DQACNHM6XVCOXGBWTZOMIEOA2M.jpg)
+
+
 ### 3. Data collection 
 
 *A.Newspaper*
