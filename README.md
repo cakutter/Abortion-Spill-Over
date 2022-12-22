@@ -8,7 +8,12 @@
 
 ### Context
 
+
+
 ![imagenet logo](https://user-images.githubusercontent.com/74500362/209132523-8435659c-19cd-4474-b94f-79520cc0cfee.png) 
+
+
+
 
    The polarizing revocation of Roe vs. Wade, which granted the right to abortion to American women, is particularly incoherent and almost absurd in a country so fervent about freedom of any kind as the US. In fact, the highest court in the United States, the U.S. Supreme Court, on Friday, June 24, 2022, revoked its landmark "Roe vs. Wade'' decision, which recognized abortion as a constitutionally protected right. However, the news broke earlier on the 2nd of May 2022 through the leak of the report announcing the intent of the U.S. Supreme Court. This key date will serve as the anchor for our analysis. The revocation of Roe v. Wade implies that this right is now within the jurisdiction of the states. Thus, states that criminalize abortion have the option of voting respectively for the criminalization they associate with abortion and towards women who visit abortion clinics, as well as the identity of doctors performing abortions.
  
@@ -30,6 +35,8 @@ On the contrary, we foresee a pre-eminence of the impact of the overturning of R
 To proceed with our attempt to arrive at elements of an answer to this problem, we have chosen to use two distinct methods of analysis. We have chosen to carry out a comparative analysis before and after the revocation of Roe vs. Wade ruling on June 24, 2022 in order to possibly observe an increase or not of mentions of the abortion theme and the corpus associated.
 The first analysis we conducted is based on the collection of articles from a variety of newspapers spanning the spectrum of editorial lines in France and Germany referring to abortion via Factiva.
 The second analysis we conducted is based on the collection of tweets mentioning abortion without mentioning the United States.
+
+![imagenet logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.letelegramme.fr%2Fmonde%2Fla-cour-supreme-des-etats-unis-semble-tentee-de-restreindre-le-droit-a-l-avortement-01-12-2021 12879587.php&psig=AOvVaw0h7TTTIpX_7cmCWFtdXzcV&ust=1671798900137000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDUkr2ejfwCFQAAAAAdAAAAABAD
 
 ## **II - Choice of Countries & Methodology**
 
