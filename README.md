@@ -1,6 +1,6 @@
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-# **To which extent the American abortion debate had a spillover on the French and German abortion discourse?**
+# **To which extent did the American abortion debate have a spillover on the French and German abortion discourse?**
 
 ## **I - Introduction**
 
@@ -21,7 +21,7 @@ The media impact of the reversal of Roe v. Wade has been unprecedented around th
 Since the political context in Germany already revolved around the question of abortion at the time, regardless of the nearly simultaneous overturning of Roe vs Wade, we assume that the German press was eventually more prone to an exacerbation rather than an interference of the US media coverage on the same subject, if any. 
 On the contrary, we foresee a pre-eminence of the impact of the overturning of Roe vs Wadeon French media coverage. Indeed, the absence of contextual reasons at the time to explain the renewed interest and media coverage of abortion in France implies a greater American influence echoing in the French public and opinion. 
 
-### Annonce de plan/Methodology
+### Structure of the Analysis
 
 To proceed with our attempt to arrive at elements of an answer to this problem, we have chosen to use two distinct methods of analysis. We have chosen to carry out a comparative analysis before and after the revocation of Roe vs. Wade ruling on June 24, 2022 in order to possibly observe an increase or not of mentions of the abortion theme and the corpus associated.
 The first analysis we conducted is based on the collection of articles from a variety of newspapers spanning the spectrum of editorial lines in France and Germany referring to abortion via Factiva.
@@ -124,7 +124,7 @@ As a first mention of limitation about this part: This method is quite primitive
 
   To broaden our understanding of the spillover effect we will now qualitatively evaluate our data, to identify specific topics. We will first look at the abortion debate in France, both in the PRE and POST period, and then do the same for Germany.
 
-#### France - PRE Roe vs Wade 
+#### 2.a. France - PRE Roe vs Wade 
  
 ##### Most used n-grams and their evolution over time
 
@@ -147,7 +147,7 @@ As a first mention of limitation about this part: This method is quite primitive
 
  Other n-grams that appear are “planning familial”, being mainly mentioned in the newspaper Ouest France as part of an invitation for citizens to get support and not hesitate to reach out to this organization. Finally, there is one n-gramm related to the US: Shar Dubey. Shar Dubey is an American businesswoman and CEO of dating apps like Match.com, and has stood up for the right of women to abort, in particular raising funds for Texan women willing to abort, after Texas restricted the access to abortion.
 
-### 3.A. Topic Network
+### Topic Network
 
 After looking at the evolution of individual n-grams and making assumptions about how they relate to specific events in French politics and society, we will now try to understand how these n-grams relate to each other through a network analysis, and see whether specific newspapers focus on specific topics.
 
@@ -161,7 +161,7 @@ Two close clusters to the blue one are the smaller green and yellow ones (both c
 
 To conclude, one can say that the abortion debate in the PRE Roe vs Wade time period was mainly centered around national events, namely international women’s day and remembering historic figures and progress regarding women’s rights, as well as the French presidential debate, with very limited mention of the US.
 
-#### France - POST Roe vs Wade
+#### 2.b. France - POST Roe vs Wade
  
 ##### Most used n-grams and their evolution over time
 
@@ -189,7 +189,7 @@ Also, “planning familial” and “droit des femmes” might be more France sp
 
 *Illustration of the an article including the “Planning familial”*
 
-## 3.B. Topic Network
+## Topic Network
 
 ![imagenet logo](https://user-images.githubusercontent.com/74500362/209157232-67c0e719-100c-4006-b479-b2c99b1205f5.png)
 
@@ -197,7 +197,7 @@ Also, “planning familial” and “droit des femmes” might be more France sp
 
 When looking at networks of the topics at hand, we can identify three main clusters. Very interesting is the fact that the US is not at the center of the network, and only fills the orange cluster at the bottom right (circled in red). The two clusters on the left (dark red and lighter red) circled in red correspond to concepts or ideals such as constitutional rights and fundamental liberties, rather linked to French debates. The third cluster (blue and green at the top right) correspond to more tangible French socio-political and cultural topics, centered first around the planning familial, and mentioning for example Gisèle Halimi, a famous French lawyer that defended the right to abort fifty years ago. At the top left, a theater play by Michel Fau with the actress Catherine Frot is mentioned. This play called “Lorsque l’enfant paraît" talks about abortion. 
 
-#### Germany - PRE Roe vs Wade 
+#### 2.c. Germany - PRE Roe vs Wade 
  
 ##### Most used n-grams and their evolution over time
 
@@ -219,7 +219,7 @@ When looking at networks of the topics at hand, we can identify three main clust
 
   When looking at the evolution of the most frequent n-grams from the German PRE articles corpus over time, we notice a high representation of articles about paragraph 219a from the beginning of February onwards. On February 19th 2022, the German Bundestag voted to allow the modification of the paragraph. Around end of April (on the right of the chart), a lot of articles mention Sandra Schmitz, a German woman who aborted and who made the buzz by publicly talking about her abortion . As our corpus is mainly drawn from regional newspapers, it makes sense to have anecdotal stories included. Here again, as in France, we can see that the topics at stake are closely linked to political and societal events that occur nationally. There is no mention of the US for now, almost like in France where the only link to the US was Shar Dubey, the CEO of match.com who spoke up about Texan’s abortion laws.
 
-## 3.C. Topic Network
+## Topic Network
 
 ![imagenet logo](https://user-images.githubusercontent.com/74500362/209158223-ec962995-ad53-4847-a3b8-ecf9740da427.png)
 
@@ -227,7 +227,7 @@ When looking at networks of the topics at hand, we can identify three main clust
 
  In terms of how the topics relate to each other, we can identify three clusters. The massive cluster in green at the top right is centered around paragraph 219a. This bubble connects to a lighter green one, that mentions women’s rights at large. At the left in orange and at the bottom in blue, we have two bubbles related to the catholic church. The orange one is more focused on Southern Germany, while the blue one is from the region around North Rhine Westphalia. The bubble in light yellow at the bottom left mentions various topics related to abortion. Overall, these topics clusters reflect German political events, and there is no mention of the US for now.
 
-#### Germany - POST Roe vs Wade
+#### 2.d. Germany - POST Roe vs Wade
 
 ##### Most used n-grams and their evolution over time
 
@@ -274,6 +274,8 @@ These categories have then been used to show the change over time. In the follow
 ![imagenet logo](https://user-images.githubusercontent.com/74500362/209163269-c8f8161c-3269-4ba6-a1fa-32b5cb3b52ab.png)
 
 *Bump Graph Germany : frequency of n-grams in categories between february and august 2022*
+
+In conclusion it can be observed that a spillover effect did occur in France as well as in Germany. While it is hard to quantify exactly, the effect seems to be bigger in France. Overall we can see that changes in abortion policy in the US had an effect on how extensively and in relation to which topic abortion was discussed on Twitter in France and Germany. '
  
 ## **V - Discussion & Limitations**   
 
