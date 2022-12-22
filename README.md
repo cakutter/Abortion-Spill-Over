@@ -36,7 +36,7 @@ To proceed with our attempt to arrive at elements of an answer to this problem, 
 The first analysis we conducted is based on the collection of articles from a variety of newspapers spanning the spectrum of editorial lines in France and Germany referring to abortion via Factiva.
 The second analysis we conducted is based on the collection of tweets mentioning abortion without mentioning the United States.
 
-![imagenet logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.letelegramme.fr%2Fmonde%2Fla-cour-supreme-des-etats-unis-semble-tentee-de-restreindre-le-droit-a-l-avortement-01-12-2021 12879587.php&psig=AOvVaw0h7TTTIpX_7cmCWFtdXzcV&ust=1671798900137000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDUkr2ejfwCFQAAAAAdAAAAABAD
+![imagenet logo]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.letelegramme.fr%2Fmonde%2Fla-cour-supreme-des-etats-unis-semble-tentee-de-restreindre-le-droit-a-l-avortement-01-12-2021 12879587.php&psig=AOvVaw0h7TTTIpX_7cmCWFtdXzcV&ust=1671798900137000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDUkr2ejfwCFQAAAAAdAAAAABAD](https://media2.ledevoir.com/images_galerie/nwd_1056477_861453/image.jpg)
 
 ## **II - Choice of Countries & Methodology**
 
