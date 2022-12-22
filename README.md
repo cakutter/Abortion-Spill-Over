@@ -82,7 +82,7 @@ For the PRE time period, we have articles from a total of 106 newspapers, mostly
 
 ![imagenet logo](https://user-images.githubusercontent.com/74500362/209151551-ad65aab1-f186-4ce1-a737-a0407ee380a7.png)
 
-*On the left: Top 20 Newspapers with highest amount of articles in our dataset in the PRE period
+*On the left: Top 20 Newspapers with highest amount of articles in our dataset in the PRE period.
 On the right: Top 20 Newspapers with highest amount of articles in our dataset in the POST period*
 
 From our lists, the first thing we can see is that local newspapers, such as *Schwarzwälder Bote*, *Stuttgarter Zeitung*, *Berliner Zeitung* or *Trierischer Volksfreund*, are highly represented in our corpus. Second, bigger German newspapers such as *Süddeutsche Zeitung*, *Welt online*, *Spiegel Online* or *Die Zeit*, didn’t publish more articles on abortion than other local newspapers. As a reminder here: Germany is a federal state that is less centralized than France, which is reflected by a higher diversity of local newspapers than in France. Still, there are various question that arise: what proportion of the their total amount of articles are dedicated to the topic of abortion? And is there a difference in this proportion between smaller and bigger newspapers? How do local and bigger newspaper treat the topic of abortion? A deeper qualitative analysis of the articles’ content in the next section will allows us to better grasp the way the newspaper talk about abortion.
