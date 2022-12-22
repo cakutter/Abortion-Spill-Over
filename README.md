@@ -44,11 +44,11 @@ The second analysis we conducted is based on the collection of tweets mentioning
 
   We decided to concentrate our analysis on the specific case of the French and German press. This choice was made for very pragmatic reasons of understanding the language in which we collected our databases. In addition, our respective knowledge of the editorial lines of the different newspapers in these countries allows us a more precise criticism of their bias. 
  
-##### France
+##### FRANCE
 
 The choice of France is particularly interesting in view of the burning news that marks the recent first step towards the inscription of the right to abortion in our Constitution. On Wednesday, November 9, the deputies validated a constitutional law proposal in this sense, to protect themselves against possible challenges like those observed in the United States.  The short text adopted on Wednesday, carried by the leader of the Renaissance deputies, Aurore Bergé, must now be examined in the hemicycle during the week of November 28.
  
-##### Germany
+##### GERMANY
 
 The case of Germany is equally fascinating because of the repeal by the German Parliament on June 24, 2022, of a legislative provision that restricted publicity and information on abortion and had led to the conviction of several gynecologists. This decision, which runs counter to the direction taken by the United States, allows us to highlight an underlying influence of American measures on the policies of European countries, which, if we may generalize as a premise for our analyses, is correlated positively or negatively with societal debates that may or may not be latent.
 
