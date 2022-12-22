@@ -52,6 +52,8 @@ The case of Germany is equally fascinating because of the repeal by the German P
 
 ![imagenet logo](https://www.grid.news/resizer/gttQwTFeZA48zDN_KzDg17l8ry4=/1440x540/filters:format(jpg):quality(100):focal(1993x996:2003x1006)/cloudfront-us-east-1.images.arcpublishing.com/thesummit/DQACNHM6XVCOXGBWTZOMIEOA2M.jpg)
 
+*A protester holds a sign during a rally in support of worldwide abortion rights in Paris on Friday.
+Photograph: Stephane De Sakutin Agence France-Presse via Getty Images*
 
 ### 3. Data collection 
 
