@@ -65,19 +65,10 @@ For this analysis, we decided to focus on eleven of the most read French newspap
 
 As such, one third of these readers read newspapers slightly oriented towards the left, one third reads liberal newspapers, then, 460K people read proximity newspapers and 350K read newspapers from the right wing. The choice of the newspapers is thus balanced enough to allow a fair representation of the population.
 
-We then proceeded to download all articles from these newspapers mentioning the word “avortement” (French for abortion). We ended up having 134 articles for the PRE period, and 232 articles for the POST period. Unfortunately, we couldn’t access articles from Le Monde and Libération, but still gathered a significant amount of articles from other newspapers, especially from Ouest France and Le Figaro. Here is the repartition of articles in the PRE and POST period by newspaper:
+We then proceeded to download all articles from these newspapers mentioning the word “avortement” *(French for abortion)*. We ended up having 134 articles for the PRE period, and 232 articles for the POST period. Unfortunately, we couldn’t access articles from *Le Monde* and *Libération*, but still gathered a significant amount of articles from other newspapers, especially from *Ouest France* and *Le Figaro*. Here is the repartition of articles in the PRE and POST period by newspaper:
 
-
-
-
-
-
-
-
-
-
-
-Amount of articles mentioning “avortement” by French newspaper in he PRE and POST period
+![imagenet logo](https://user-images.githubusercontent.com/74500362/209146375-c95d389d-f260-4154-b9ff-4292d77abaa0.png)
+*Amount of articles mentioning “avortement” by French newspaper in he PRE and POST period*
 
 ##### GERMAN NEWSPAPERS
 
@@ -85,17 +76,22 @@ Regarding German newspapers, there weren’t enough articles available on Factiv
 
 For the PRE time period, we have articles from a total of 106 newspapers, mostly local newspapers, with no newspaper exceeding 8 articles in that time period with the Keyword “Abtreibung”. For the POST time period, we have a total of 139 newspapers, with a maximum of 20 articles for one newspaper.
 
+![imagenet logo](https://user-images.githubusercontent.com/74500362/209146571-84d67b81-ae64-4930-80f6-8f29b0ad1fa7.png)
+*Top 20 Newspapers with highest amount of articles in our dataset in the PRE period*
 
+![imagenet logo](https://user-images.githubusercontent.com/74500362/209146886-a0dea961-d856-4a67-8cb3-c60ca3ca9688.png)
+*Top 20 Newspapers with highest amount of articles in our dataset in the POST period*
 
+From our lists, the first thing we can see is that local newspapers, such as *Schwarzwälder Bote*, *Stuttgarter Zeitung*, *Berliner Zeitung* or *Trierischer Volksfreund*, are highly represented in our corpus. Second, bigger German newspapers such as *Süddeutsche Zeitung*, *Welt online*, *Spiegel Online* or *Die Zeit*, didn’t publish more articles on abortion than other local newspapers. As a reminder here: Germany is a federal state that is less centralized than France, which is reflected by a higher diversity of local newspapers than in France. Still, there are various question that arise: what proportion of the their total amount of articles are dedicated to the topic of abortion? And is there a difference in this proportion between smaller and bigger newspapers? How do local and bigger newspaper treat the topic of abortion? A deeper qualitative analysis of the articles’ content in the next section will allows us to better grasp the way the newspaper talk about abortion.
 
-From our lists, the first thing we can see is that local newspapers, such as Schwarzwälder Bote, Stuttgarter Zeitung, Berliner Zeitung or Trierischer Volksfreund, are highly represented in our corpus. Second, bigger German newspapers such as Süddeutsche Zeitung, Welt online, Spiegel Online or Die Zeit, didn’t publish more articles on abortion than other local newspapers. As a reminder here: Germany is a federal state that is less centralized than France, which is reflected by a higher diversity of local newspapers than in France. Still, there are various question that arise: what proportion of the their total amount of articles are dedicated to the topic of abortion? And is there a difference in this proportion between smaller and bigger newspapers? How do local and bigger newspaper treat the topic of abortion? A deeper qualitative analysis of the articles’ content in the next section will allows us to better grasp the way the newspaper talk about abortion.
+An important limitation to mention here: while downloading the dataset, we have only searched for the keyword "Abtreibung" *(abortion in German)*. Nevertheless, there is a second word for abortion in German, which is used more in a medical context: "Schwangerschaftsabbruch" *(interruption of pregnancy)*. We have decided to use only the keyword "Abtreibung", as this is the one citizens would normally use.
 
-An important limitation to mention here: while downloading the dataset, we have only searched for the keyword “Abtreibung” (abortion in German). Nevertheless, there is a second word for abortion in German, which is used more in a medical context: “Schwangerschaftsabbruch” (interruption of pregnancy). We have decided to use only the keyword “Abtreibung”, as this is the one citizens would normally use.
+### 3.2. Tweets
 
-*B.Tweets*
+ As an additional layer to the analysis we have also looked at the broader public discourse, by examining the change in the discussion on twitter in Germany as well as France. For this we used Minet to download tweets mentioning the keyword *avortement* or *Abtreibung* in french or respectively german. We then semi-manually filtered these tweets for location, by constructing a list of most frequently used locations and manually assigning the corresponding country, thus coming up with a dictionary. This dictionary was used to then limit the corpus to 22.278 tweets from France and 9.002 tweets from Germany used to conduct further analysis. 
 
-  As an additional layer to the analysis we have also looked at the broader public discourse, by examining the change in the discussion on twitter in Germany as well as France. For this we used Minet to download tweets mentioning the keyword ‚avortement’ or ‚Abtreibung‘ in french or respectively german. We then semi-manually filtered these tweets for location, by constructing a list of most frequently used locations and manually assigning the corresponding country, thus coming up with a dictionary. This dictionary was used to then limit the corpus to Random number tweets from France and Random Number tweets from Germany used to conduct further analysis.
-
+![imagenet logo]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2022%2Fjan%2F18%2Fgermanys-new-government-to-scrap-nazi-era-abortion-law&psig=AOvVaw2meSZ9Di6v692NgcQxxw7O&ust=1671803458917000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDlr7avjfwCFQAAAAAdAAAAABAD](https://i.guim.co.uk/img/media/af1997e276d3386018a33c88a63df1d6c6b2b5b3/0_160_4815_2889/master/4815.jpg?width=620&quality=45&dpr=2&s=none)
+*One of many protests held was held to rally for the abolition of criminal code 219a. Paragraph 219a criminalises those who advertise abortions. Photograph: Hayoung Jeon/EPA*
 
 ## **III - Media Analysis**
  
