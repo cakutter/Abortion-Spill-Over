@@ -312,6 +312,10 @@ In conclusion it can be observed that a spillover effect did occur in France as 
 ### Conclusion about German newspapers
 
   Regarding German newspapers, topics most discussed in the PRE Roe vs Wade time period are the paragraph 219a, as well as the closely linked topics of the opinion of the catholic church and Kristina Hänel, the gynecologist who led to the elimination of the paragraph 219a from the German penal code. As anticipated through the quantitative analysis, the spillover effect was less important in Germany than in France. German national topics barely changed, still centered around paragraph 219a, while the media still talked a lot about both the decision of the Supreme Court and the meeting of the G7 group at Schloss Elmau, where Scholz commented on the Supreme’s Court overruling of Roe vs Wade.
+  
+  ### Conclusion about Tweets
+  
+From our observations, we can say that a spillover effect did occur in France as well as in Germany. While it is hard to quantify it exactly, the effect seems to be bigger in France. Overall we can see that changes in abortion policy in the US had an effect on how extensively and in relation to which topic abortion was discussed on Twitter in France and Germany.
 
 
 
