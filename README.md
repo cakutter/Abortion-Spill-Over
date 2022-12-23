@@ -243,7 +243,7 @@ When looking at networks of the topics at hand, we can identify three main clust
 
   On this graph we can clearly see the impact of the leak from the supreme Court, as there is a spike of articles mentioning the US Supreme court on the left (coinciding with the date of the leak), then less mentions of it and around June, which coincides with the dates in which the Supreme Court overruled Roe vs Wade. Parallel to this, we still see Paragraph 219a, and interestingly, Schloss Elmau is mentioned again around the date of the G7 summit. Thus, one can say that there is a spillover effect in that Scholz felt obliged to re-discuss abortion during the G7 summit in Schloss Elmau, but otherwise, there isn’t a new German national topic surrounding abortion.
 
-## 3.D. Topic Network
+## 3. Topic Network
 
 ![imagenet logo](https://user-images.githubusercontent.com/74500362/209159951-d4543969-e76a-4107-9925-21a4c22d4c5e.png)
 
@@ -312,8 +312,8 @@ In conclusion it can be observed that a spillover effect did occur in France as 
 ### Conclusion about German newspapers
 
   Regarding German newspapers, topics most discussed in the PRE Roe vs Wade time period are the paragraph 219a, as well as the closely linked topics of the opinion of the catholic church and Kristina Hänel, the gynecologist who led to the elimination of the paragraph 219a from the German penal code. As anticipated through the quantitative analysis, the spillover effect was less important in Germany than in France. German national topics barely changed, still centered around paragraph 219a, while the media still talked a lot about both the decision of the Supreme Court and the meeting of the G7 group at Schloss Elmau, where Scholz commented on the Supreme’s Court overruling of Roe vs Wade.
-  
-  ### Conclusion about Tweets
+
+### Conclusion about Tweets
   
 From our observations, we can say that a spillover effect did occur in France as well as in Germany. While it is hard to quantify it exactly, the effect seems to be bigger in France. Overall we can see that changes in abortion policy in the US had an effect on how extensively and in relation to which topic abortion was discussed on Twitter in France and Germany.
 
